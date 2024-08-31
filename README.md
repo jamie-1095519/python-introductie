@@ -49,6 +49,7 @@ Bij elke les zijn er een aantal opdrachten die vervuld moeten worden. De uitwerk
 | Les 7: Functies    |  | [Opdracht_les_7.md](Opdrachten%2FOpdracht_les_7.md) |
 | Les 8: Scope       |  | [Opdracht_les_8.md](Opdrachten%2FOpdracht_les_8.md) |
 
+
 Hoewel de opdrachten niet allemaal af moeten vragen we je verderop in Werkplaats 1 te laten zien hoever je bent gekomen en waar je problemen mee had. Als je er niet uit komt is het dus verstandig om contact op te nemen met je docent vóórdat je begint aan de eerste werkplaats les!
 
 ## Werken met Pycharm
