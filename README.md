@@ -49,4 +49,20 @@ Bij elke les zijn er een aantal opdrachten die vervuld moeten worden. De uitwerk
 | Les 7: Functies    |  | [Opdracht_les_7.md](Opdrachten%2FOpdracht_les_7.md) |
 | Les 8: Scope       |  | [Opdracht_les_8.md](Opdrachten%2FOpdracht_les_8.md) |
 
+
 Hoewel de opdrachten niet allemaal af moeten vragen we je verderop in Werkplaats 1 te laten zien hoever je bent gekomen en waar je problemen mee had. Als je er niet uit komt is het dus verstandig om contact op te nemen met je docent vóórdat je begint aan de eerste werkplaats les!
+
+## Werken met Pycharm
+In de lessen wordt gebruik gemaakt van Pycharm. Pycharm is een IDE (Integrated Development Environment) die speciaal is ontwikkeld voor Python. Het is een krachtige tool die je helpt bij het programmeren. Je kunt Pycharm downloaden van [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/).
+
+Waarschijnlijk lees je deze tekst nu op github.com. Het is makkelijker voor jezelf om de repository te clonen naar je eigen computer en dat kan direct met Pycharm, als volgt:
+1) Zoek de .git URL van deze repository op. Dat kan door op de groene knop "Code" te klikken en de URL te kopieren.
+![pycharm_github_url.png](Opdrachten%2FImages%2Fpycharm_github_url.png)
+
+2) Open Pycharm. Als je al een project hebt geopend kun je een nieuw project openen door op "File" -> "New Project" te klikken. Als je al eerder een project hebt geopend kun je met File -> "Project from version control" dit project naar jouw eigen systeem kopiëren. Heb je nog niet eerder een project geopend, dan kun je via "Get from VCS" direct de URL plakken in het veld "URL":
+![pycharm_zonder_project.png](Opdrachten%2FImages%2Fpycharm_zonder_project.png)
+
+Probeer voor het opslaan op jouw lokale systeem een generieke map te maken voor alle projecten. Er zullen er dit jaar nog een hoop meer volgen. 
+
+3) Pycharm bied je alle gereedschappen om gemakkelijk te werken met deze opdrachten. Open het bestand README.md. Met een rechter-muis klik op het tabblad kun je "Split right" kiezen om deze README.md naast je editor te tonen. Zo kun je daarnaast aan de opdrachten werken:
+![pycharm_screen.png](Opdrachten%2FImages%2Fpycharm_screen.png)
